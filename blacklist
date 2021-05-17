@@ -1,6 +1,3 @@
-# This hosts file is a collection of hosts from tailing the log
-# with some sourcing via GitHub
-
 0.0.0.0 acxiom-online.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsymptopic.com
