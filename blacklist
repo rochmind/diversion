@@ -5,6 +5,7 @@
 0.0.0.0 agkn.com
 0.0.0.0 alcmpn.com
 0.0.0.0 alocdn.com
+0.0.0.0 analytics.jm1.me
 0.0.0.0 api.mixpanel.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app.mixmax.com
@@ -51,6 +52,7 @@
 0.0.0.0 emailretargeting.com
 0.0.0.0 emailtracking.azure.com
 0.0.0.0 emltrk.com
+0.0.0.0 esp.aptrinsic.com
 0.0.0.0 exacttarget.com
 0.0.0.0 exct.net
 0.0.0.0 flurry.com
@@ -121,6 +123,7 @@
 0.0.0.0 neustar.biz
 0.0.0.0 newsletter2go.de
 0.0.0.0 nexac.com
+0.0.0.0 notify.adobe.io
 0.0.0.0 onelink.me
 0.0.0.0 openx.net
 0.0.0.0 outrch.com
@@ -132,6 +135,7 @@
 0.0.0.0 postmarkapp.com
 0.0.0.0 promio-mail.com
 0.0.0.0 pstmrk.it
+0.0.0.0 qagpublic.qg2.apps.qualys.com
 0.0.0.0 realtime.email
 0.0.0.0 rebump.com
 0.0.0.0 rebump.cc
