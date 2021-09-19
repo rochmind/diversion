@@ -32,7 +32,6 @@
 0.0.0.0 constantcontact.com
 0.0.0.0 contactlab.it
 0.0.0.0 contactmonkey.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 criteo.com
 0.0.0.0 crsend.com
 0.0.0.0 davinci-qa.nba.com
@@ -80,8 +79,6 @@
 0.0.0.0 isnssdk.com
 0.0.0.0 ivitrack.com
 0.0.0.0 jetlore.com
-0.0.0.0 l.facebook.com
-0.0.0.0 lm.facebook.com
 0.0.0.0 l.sololearn.com
 0.0.0.0 launchbit.com
 0.0.0.0 lemediavault.com
