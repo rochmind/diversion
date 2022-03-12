@@ -222,6 +222,7 @@
 0.0.0.0 nba2k22-ws-telem.aws.2ksports.com
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 telemetry-console.api.playstation.com
+0.0.0.0 telemetry-cii.api.playstation.com
 
 # Tiktok tracking and fingerprinting hosts
 
