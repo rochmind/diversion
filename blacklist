@@ -223,6 +223,10 @@
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-cii.api.playstation.com
+0.0.0.0 zoom.ada.support
+0.0.0.0 graph.m-freeway.com
+0.0.0.0 hwa.his.huawei.com
+0.0.0.0 sbsaustralia.sc.omtrdc.net
 
 # Tiktok tracking and fingerprinting hosts
 
