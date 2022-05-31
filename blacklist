@@ -415,7 +415,7 @@
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
 0.0.0.0 event.wbinsights.com
-# LG tv start
+# LG tv in Oz
 0.0.0.0 rdx2.lgtvsdp.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 ibs.lgappstv.com
@@ -430,13 +430,12 @@
 0.0.0.0 smartclip.net
 0.0.0.0 smartclip.com
 
-0.0.0.0 us.ad.lgsmartad.com
-0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0 us.info.lgsmartad.com
-0.0.0.0 us.ibs.lgappstv.com
-0.0.0.0 us.lgtvsdp.com
+0.0.0.0 au.ad.lgsmartad.com
+0.0.0.0 au.rdx2.lgtvsdp.com
+0.0.0.0 au.info.lgsmartad.com
+0.0.0.0 au.ibs.lgappstv.com
+0.0.0.0 au.lgtvsdp.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 ibis.lgappstv.com
 0.0.0.0 au.info.lgsmartad.com
-0.0.0.0 au.ad.lgsmartad.com
