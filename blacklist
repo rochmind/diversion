@@ -61,7 +61,7 @@
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
+#0.0.0.0 graph.instagram.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 gtc-online.de
 0.0.0.0 hsms06.com
@@ -415,3 +415,28 @@
 0.0.0.0 wshifen.com
 0.0.0.0 www.wshifen.com
 0.0.0.0 event.wbinsights.com
+# LG tv start
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 ibs.lgappstv.com
+0.0.0.0 lgtvsdp.com
+0.0.0.0 lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 lgappstv.com
+
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
+
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 au.info.lgsmartad.com
+0.0.0.0 au.ad.lgsmartad.com
