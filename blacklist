@@ -61,7 +61,7 @@
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 graph.facebook.com
-#0.0.0.0 graph.instagram.com
+0.0.0.0 graph.instagram.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 gtc-online.de
 0.0.0.0 hsms06.com
@@ -210,6 +210,7 @@
 0.0.0.0 http.00.a.sophosxl.net
 0.0.0.0 wup-24f7f3c7.nab.com.au
 0.0.0.0 log-24f7f3c7.nab.com.au
+
 0.0.0.0 smetrics.nab.com.au
 0.0.0.0 click.e.gq.com.au
 0.0.0.0 qise.stripocdn.email
