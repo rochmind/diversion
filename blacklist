@@ -94,6 +94,7 @@
 0.0.0.0 litmus.com
 0.0.0.0 logfiles.zoom.us
 0.0.0.0 logfiles-va.zoom.us
+0.0.0.0 logx.optimizely.com
 0.0.0.0 mailchimp.com
 0.0.0.0 maileon.com
 0.0.0.0 mailer-service.de
