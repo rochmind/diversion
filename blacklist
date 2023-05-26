@@ -429,6 +429,21 @@
 0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 mcs-spinnaker-2103948255.us-east-2.elb.amazonaws.com
+0.0.0.0 cdn.optimizely.com
+0.0.0.0 insights.algolia.io
+0.0.0.0 insights.de.algolia.io
+0.0.0.0 dcf.espn.com
+0.0.0.0 enrol.digitalanywhere.com.au
+
+#local kerberos
+0.0.0.0 _kerberos._tcp.msj.local
+0.0.0.0 _kerberos._udp.msj.local
+0.0.0.0 printsvr.qoppps.local
+0.0.0.0 ecmelb.local
+0.0.0.0 spdc2.ecmelb.local
+0.0.0.0 qoppps.local
+0.0.0.0 5cg1356ld8.qoppps.local
+0.0.0.0 wpad.qoppps.local
 
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
