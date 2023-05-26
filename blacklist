@@ -445,6 +445,9 @@
 #0.0.0.0 smartclip.com
 #0.0.0.0 yumenetworks.com
 
+# LG tv looking for hue
+0.0.0.0 discovery.meethue.com
+
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 au.ad.lgsmartad.com
 0.0.0.0 au.info.lgsmartad.com
