@@ -436,8 +436,8 @@
 0.0.0.0 enrol.digitalanywhere.com.au
 
 #local kerberos
-0.0.0.0 _kerberos._tcp.msj.local
-0.0.0.0 _kerberos._udp.msj.local
+0.0.0.0 kerberos._tcp.msj.local
+0.0.0.0 kerberos._udp.msj.local
 0.0.0.0 printsvr.qoppps.local
 0.0.0.0 ecmelb.local
 0.0.0.0 spdc2.ecmelb.local
