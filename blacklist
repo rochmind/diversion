@@ -445,12 +445,14 @@
 0.0.0.0 5cg1356ld8.qoppps.local
 0.0.0.0 wpad.qoppps.local
 
+0.0.0.0 xp.apple.com
+0.0.0.0 stats.gc.apple.com
+0.0.0.0 fbs.smoot.apple.com
+
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
 #0.0.0.0 au.ibs.lgappstv.com
 #0.0.0.0 au.lgtvsdp.com
-#0.0.0.0 ibis.lgappstv.com
-#0.0.0.0 ibs.lgappstv.com
 #0.0.0.0 lgtvsdp.com
 #0.0.0.0 lgappstv.com
 #0.0.0.0 ngfts.lge.com
@@ -459,6 +461,8 @@
 #0.0.0.0 smartclip.net
 #0.0.0.0 smartclip.com
 #0.0.0.0 yumenetworks.com
+0.0.0.0 au.ibs.lgappstv.com
+0.0.0.0 ibs.lgappstv.com
 
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
