@@ -61,7 +61,7 @@
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 graph.facebook.com
-0.0.0.0 graph.instagram.com
+#0.0.0.0 graph.instagram.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 gtc-online.de
 0.0.0.0 hsms06.com
@@ -444,6 +444,7 @@
 0.0.0.0 qoppps.local
 0.0.0.0 5cg1356ld8.qoppps.local
 0.0.0.0 wpad.qoppps.local
+0.0.0.0 sch-2917.mosyle.com
 
 0.0.0.0 xp.apple.com
 0.0.0.0 stats.gc.apple.com
