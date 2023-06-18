@@ -61,7 +61,8 @@
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 graph.facebook.com
-#0.0.0.0 graph.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 gtc-online.de
 0.0.0.0 hsms06.com
@@ -211,7 +212,7 @@
 0.0.0.0 http.00.a.sophosxl.net
 0.0.0.0 wup-24f7f3c7.nab.com.au
 0.0.0.0 log-24f7f3c7.nab.com.au
-
+0.0.0.0 femetrics.grammarly.io
 0.0.0.0 smetrics.nab.com.au
 0.0.0.0 click.e.gq.com.au
 0.0.0.0 qise.stripocdn.email
@@ -406,6 +407,11 @@
 0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mon.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 pull-cmaf-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-l10-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l11-sg01.tiktokcdn.com
+0.0.0.0 push-rtmp-l10-sg01.tiktokcdn.com
+0.0.0.0 pull-flv-f10-gcp01.tiktokcdn.com
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 sdfp-va.tiktokv.com
 0.0.0.0 verification-va.tiktokv.com
@@ -435,7 +441,7 @@
 0.0.0.0 dcf.espn.com
 0.0.0.0 enrol.digitalanywhere.com.au
 
-#local kerberos
+#local 
 0.0.0.0 kerberos.tcp.msj.local
 0.0.0.0 kerberos.udp.msj.local
 0.0.0.0 printsvr.qoppps.local
@@ -443,12 +449,14 @@
 0.0.0.0 spdc2.ecmelb.local
 0.0.0.0 qoppps.local
 0.0.0.0 5cg1356ld8.qoppps.local
+0.0.0.0 spiceworkssvr.qoppps.local
 0.0.0.0 wpad.qoppps.local
 0.0.0.0 sch-2917.mosyle.com
 
 0.0.0.0 xp.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 fbs.smoot.apple.com
+0.0.0.0 api.smoot.apple.com
 
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
@@ -464,6 +472,7 @@
 #0.0.0.0 yumenetworks.com
 0.0.0.0 au.ibs.lgappstv.com
 0.0.0.0 ibs.lgappstv.com
+0.0.0.0 kic.api.lgtviot.com
 
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
@@ -473,3 +482,15 @@
 0.0.0.0 au.info.lgsmartad.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+
+#nextdns A
+0.0.0.0 cf-trickplay.aux.pv-cdn.net
+0.0.0.0 widget-mediator.zopim.com
+0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 activity.windows.com
+0.0.0.0 aax-fe.amazon.com.au
+0.0.0.0 seal.geotrust.com
+0.0.0.0 cstat.cdn-apple.com
+0.0.0.0 api.snapkit.com
+0.0.0.0 d.joinhoney.com
+0.0.0.0 dns.msftncsi.com
