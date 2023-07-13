@@ -470,9 +470,9 @@
 #0.0.0.0 smartclip.net
 #0.0.0.0 smartclip.com
 #0.0.0.0 yumenetworks.com
-#0.0.0.0 au.ibs.lgappstv.com
 #0.0.0.0 ibs.lgappstv.com
 #0.0.0.0 kic.api.lgtviot.com
+0.0.0.0 au.ibs.lgappstv.com
 
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
@@ -494,3 +494,5 @@
 0.0.0.0 api.snapkit.com
 0.0.0.0 d.joinhoney.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 watson.events.data.microsoft.com
