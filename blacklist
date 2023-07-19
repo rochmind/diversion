@@ -472,7 +472,7 @@
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 ibs.lgappstv.com
 #0.0.0.0 kic.api.lgtviot.com
-0.0.0.0 au.ibs.lgappstv.com
+#0.0.0.0 au.ibs.lgappstv.com
 
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
