@@ -472,27 +472,33 @@
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 ibs.lgappstv.com
 #0.0.0.0 kic.api.lgtviot.com
-#0.0.0.0 au.ibs.lgappstv.com
 
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
-
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 au.ad.lgsmartad.com
 0.0.0.0 au.info.lgsmartad.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 au.ibs.lgappstv.com
+0.0.0.0 au.ibsstat.lgappstv.com
 
 #nextdns A
-0.0.0.0 cf-trickplay.aux.pv-cdn.net
-0.0.0.0 widget-mediator.zopim.com
-0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 activity.windows.com
 0.0.0.0 aax-fe.amazon.com.au
-0.0.0.0 seal.geotrust.com
-0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 api.snapkit.com
+0.0.0.0 au.thtk.temu.com
+0.0.0.0 cdn-ukwest.onetrust.com
+0.0.0.0 cstat.cdn-apple.com
+0.0.0.0 cf-trickplay.aux.pv-cdn.net
 0.0.0.0 d.joinhoney.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 launchpad-wrapper.privacymanager.io
+0.0.0.0 search.namequery.com
+0.0.0.0 seal.geotrust.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 status.geotrust.com
+0.0.0.0 unagi.amazon.com.au
 0.0.0.0 watson.events.data.microsoft.com
+0.0.0.0 widget-mediator.zopim.com
