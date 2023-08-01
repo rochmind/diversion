@@ -210,6 +210,7 @@
 0.0.0.0 ts01-b.cloudsink.net
 0.0.0.0 4.sophosxl.net
 0.0.0.0 http.00.a.sophosxl.net
+0.0.0.0 wup-6a216a0f.au.v2.we-stats.com
 0.0.0.0 wup-24f7f3c7.nab.com.au
 0.0.0.0 log-24f7f3c7.nab.com.au
 0.0.0.0 femetrics.grammarly.io
@@ -488,11 +489,14 @@
 0.0.0.0 aax-fe.amazon.com.au
 0.0.0.0 api.snapkit.com
 0.0.0.0 au.thtk.temu.com
+0.0.0.0 bf58353tyw.bf.dynatrace.com
 0.0.0.0 cdn-ukwest.onetrust.com
 0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 cf-trickplay.aux.pv-cdn.net
+0.0.0.0 collectors.au.sumologic.com
 0.0.0.0 d.joinhoney.com
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 launchpad-wrapper.privacymanager.io
 0.0.0.0 search.namequery.com
