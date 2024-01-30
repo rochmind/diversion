@@ -441,7 +441,6 @@
 0.0.0.0 insights.de.algolia.io
 0.0.0.0 dcf.espn.com
 0.0.0.0 enrol.digitalanywhere.com.au
-
 #local 
 0.0.0.0 kerberos.tcp.msj.local
 0.0.0.0 kerberos.udp.msj.local
@@ -453,12 +452,10 @@
 0.0.0.0 spiceworkssvr.qoppps.local
 0.0.0.0 wpad.qoppps.local
 0.0.0.0 sch-2917.mosyle.com
-
 0.0.0.0 xp.apple.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 fbs.smoot.apple.com
 0.0.0.0 api.smoot.apple.com
-
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
 #0.0.0.0 au.ibs.lgappstv.com
@@ -473,7 +470,6 @@
 #0.0.0.0 yumenetworks.com
 #0.0.0.0 ibs.lgappstv.com
 #0.0.0.0 kic.api.lgtviot.com
-
 # LG tv looking for hue
 0.0.0.0 discovery.meethue.com
 0.0.0.0 ad.lgappstv.com
@@ -483,7 +479,6 @@
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 au.ibs.lgappstv.com
 0.0.0.0 au.ibsstat.lgappstv.com
-
 #nextdns A
 0.0.0.0 activity.windows.com
 0.0.0.0 aax-fe.amazon.com.au
@@ -495,6 +490,7 @@
 0.0.0.0 cf-trickplay.aux.pv-cdn.net
 0.0.0.0 collectors.au.sumologic.com
 0.0.0.0 d.joinhoney.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 jnn-pa.googleapis.com
@@ -506,3 +502,6 @@
 0.0.0.0 unagi.amazon.com.au
 0.0.0.0 watson.events.data.microsoft.com
 0.0.0.0 widget-mediator.zopim.com
+0.0.0.0 acsechocaptiveportal.com
+0.0.0.0 firetvcaptiveportal.com
+0.0.0.0 fireoscaptiveportal.com
