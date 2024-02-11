@@ -12,6 +12,7 @@
 0.0.0.0 app.relateiq.com
 0.0.0.0 app.yesware.com
 0.0.0.0 awstrack.me
+0.0.0.0 baidu.com
 0.0.0.0 bananatag.com
 0.0.0.0 bidswitch.net
 0.0.0.0 bl-1.com
@@ -218,7 +219,6 @@
 0.0.0.0 log-24f7f3c7.nab.com.au
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 smetrics.nab.com.au
-0.0.0.0 click.e.gq.com.au
 0.0.0.0 qise.stripocdn.email
 0.0.0.0 p.yotpo.com
 0.0.0.0 staticw2.yotpo.com
@@ -227,6 +227,7 @@
 0.0.0.0 i.emlfiles4.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 nba2k22-ws-telem.aws.2ksports.com
+0.0.0.0 nba2k23-ws-telem.aws.2ksports.com
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-cii.api.playstation.com
@@ -234,6 +235,7 @@
 0.0.0.0 graph.m-freeway.com
 0.0.0.0 hwa.his.huawei.com
 0.0.0.0 sbsaustralia.sc.omtrdc.net
+
 # Tiktok tracking and fingerprinting hosts
 0.0.0.0 musically.app.link
 0.0.0.0 musically-alternate.app.link
@@ -453,10 +455,11 @@
 0.0.0.0 spiceworkssvr.qoppps.local
 0.0.0.0 wpad.qoppps.local
 0.0.0.0 sch-2917.mosyle.com
-0.0.0.0 xp.apple.com
-#0.0.0.0 stats.gc.apple.com
-#0.0.0.0 fbs.smoot.apple.com
-#0.0.0.0 api.smoot.apple.com
+0.0.0.0 ndcsccm.ecmelb.local
+0.0.0.0 spcsccm.ecmelb.local
+0.0.0.0 spprt.ecmelb.local
+0.0.0.0 wpad.ecmelb.local
+
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
 #0.0.0.0 au.ibs.lgappstv.com
@@ -496,6 +499,7 @@
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 launchpad-wrapper.privacymanager.io
+0.0.0.0 log22-normal-alisg.tiktokv.com
 0.0.0.0 search.namequery.com
 0.0.0.0 seal.geotrust.com
 0.0.0.0 settings-win.data.microsoft.com
