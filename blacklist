@@ -443,7 +443,7 @@
 0.0.0.0 insights.algolia.io
 0.0.0.0 insights.de.algolia.io
 0.0.0.0 dcf.espn.com
-0.0.0.0 enrol.digitalanywhere.com.au
+
 #local 
 0.0.0.0 kerberos.tcp.msj.local
 0.0.0.0 kerberos.udp.msj.local
