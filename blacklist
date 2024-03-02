@@ -209,32 +209,6 @@
 0.0.0.0 yesware.com
 0.0.0.0 yet-another-mail-merge.com
 0.0.0.0 ziffimages.com
-0.0.0.0 tiktokv.com
-0.0.0.0 we-stats.com
-0.0.0.0 ts01-b.cloudsink.net
-0.0.0.0 4.sophosxl.net
-0.0.0.0 http.00.a.sophosxl.net
-0.0.0.0 wup-6a216a0f.au.v2.we-stats.com
-0.0.0.0 wup-24f7f3c7.nab.com.au
-0.0.0.0 log-24f7f3c7.nab.com.au
-0.0.0.0 femetrics.grammarly.io
-0.0.0.0 smetrics.nab.com.au
-0.0.0.0 qise.stripocdn.email
-0.0.0.0 p.yotpo.com
-0.0.0.0 staticw2.yotpo.com
-0.0.0.0 webchat.dotdigital.com
-0.0.0.0 instocknotify.blob.core.windows.net
-0.0.0.0 i.emlfiles4.com
-0.0.0.0 cws.conviva.com
-0.0.0.0 nba2k22-ws-telem.aws.2ksports.com
-0.0.0.0 nba2k23-ws-telem.aws.2ksports.com
-0.0.0.0 smetrics.aem.playstation.com
-0.0.0.0 telemetry-console.api.playstation.com
-0.0.0.0 telemetry-cii.api.playstation.com
-0.0.0.0 zoom.ada.support
-0.0.0.0 graph.m-freeway.com
-0.0.0.0 hwa.his.huawei.com
-0.0.0.0 sbsaustralia.sc.omtrdc.net
 
 # Tiktok tracking and fingerprinting hosts
 0.0.0.0 musically.app.link
@@ -421,6 +395,36 @@
 0.0.0.0 verification-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 tiktokv.com
+0.0.0.0 private-attribution.us.tiktokv.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 rtlog22-normal-alisg.tiktokv.com
+
+#discovered
+0.0.0.0 4.sophosxl.net
+0.0.0.0 http.00.a.sophosxl.net
+0.0.0.0 we-stats.com
+0.0.0.0 wup-6a216a0f.au.v2.we-stats.com
+0.0.0.0 wup-24f7f3c7.nab.com.au0.0.0.0 ts01-b.cloudsink.net
+0.0.0.0 log-24f7f3c7.nab.com.au
+0.0.0.0 femetrics.grammarly.io
+0.0.0.0 smetrics.nab.com.au
+0.0.0.0 qise.stripocdn.email
+0.0.0.0 p.yotpo.com
+0.0.0.0 staticw2.yotpo.com
+0.0.0.0 webchat.dotdigital.com
+0.0.0.0 instocknotify.blob.core.windows.net
+0.0.0.0 i.emlfiles4.com
+0.0.0.0 cws.conviva.com
+0.0.0.0 nba2k22-ws-telem.aws.2ksports.com
+0.0.0.0 nba2k23-ws-telem.aws.2ksports.com
+0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 telemetry-console.api.playstation.com
+0.0.0.0 telemetry-cii.api.playstation.com
+0.0.0.0 zoom.ada.support
+0.0.0.0 graph.m-freeway.com
+0.0.0.0 hwa.his.huawei.com
+0.0.0.0 sbsaustralia.sc.omtrdc.net
 0.0.0.0 business.topbuzz.com
 0.0.0.0 business-sg.topbuzz.com
 0.0.0.0 dm.toutiao.com
@@ -433,9 +437,6 @@
 0.0.0.0 autopush.prod.mozaws.net
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 gstatic.com
-0.0.0.0 private-attribution.us.tiktokv.com
-0.0.0.0 analytics-sg.tiktok.com
-0.0.0.0 rtlog22-normal-alisg.tiktokv.com
 0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 mcs-spinnaker-2103948255.us-east-2.elb.amazonaws.com
@@ -443,22 +444,46 @@
 0.0.0.0 insights.algolia.io
 0.0.0.0 insights.de.algolia.io
 0.0.0.0 dcf.espn.com
+0.0.0.0 sch-2917.mosyle.com
 
-#local 
-0.0.0.0 kerberos.tcp.msj.local
-0.0.0.0 kerberos.udp.msj.local
-0.0.0.0 printsvr.qoppps.local
-0.0.0.0 ecmelb.local
-0.0.0.0 spdc2.ecmelb.local
-0.0.0.0 qoppps.local
+#qop
+0.0.0.0 _ldap._tcp.pdc._msdcs.qoppps.local
+0.0.0.0 _ldap._tcp.qoppps.local
+0.0.0.0 _ldap._tcp.dc._msdcs.qoppps.local
+0.0.0.0 _ldap._tcp.default-first-site-name._sites.qoppps.local
+0.0.0.0 _ldap._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
+0.0.0.0 _ldap._tcp.88278cd5-b682-4599-8aee-24a653c9ed35.domains._msdcs.qoppps.local
+0.0.0.0 _kerberos._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
+0.0.0.0 _kerberos._tcp.dc._msdcs.qoppps.local
 0.0.0.0 5cg1356ld8.qoppps.local
+0.0.0.0 alannahs-laptop.qoppps.local
+0.0.0.0 datasvr.qoppps.local
+0.0.0.0 dcsvr.qoppps.local
+0.0.0.0 qoppps.local
+0.0.0.0 printsvr.qoppps.local
 0.0.0.0 spiceworkssvr.qoppps.local
 0.0.0.0 wpad.qoppps.local
-0.0.0.0 sch-2917.mosyle.com
+
+#ecm
+0.0.0.0 _kerberos._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
+0.0.0.0 _ldap._tcp.ecmelb.local
+0.0.0.0 _ldap._tcp.altonanorth._sites.ecmelb.local
+0.0.0.0 _ldap._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
+0.0.0.0 _ldap._tcp.1113d58c-8b86-4920-8942-9caed9ab735a.domains._msdcs.ecmelb.local
+0.0.0.0 _ldap._tcp.dc._msdcs.ecmelb.local
+0.0.0.0 ecmelb.local
 0.0.0.0 ndcsccm.ecmelb.local
+0.0.0.0 spdc2.ecmelb.local
 0.0.0.0 spcsccm.ecmelb.local
 0.0.0.0 spprt.ecmelb.local
 0.0.0.0 wpad.ecmelb.local
+
+#msj
+0.0.0.0 _kerberos.tcp.msj.local
+0.0.0.0 _kerberos.udp.msj.local
+0.0.0.0 kerberos.tcp.msj.local
+0.0.0.0 kerberos.udp.msj.local
+
 
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
@@ -478,11 +503,12 @@
 0.0.0.0 discovery.meethue.com
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 au.ad.lgsmartad.com
+0.0.0.0 au.ibs.lgappstv.com
+0.0.0.0 au.ibsstat.lgappstv.com
 0.0.0.0 au.info.lgsmartad.com
 0.0.0.0 info.lgsmartad.com
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
-0.0.0.0 au.ibs.lgappstv.com
-0.0.0.0 au.ibsstat.lgappstv.com
+
 #nextdns A
 0.0.0.0 activity.windows.com
 0.0.0.0 aax-fe.amazon.com.au
