@@ -4,13 +4,13 @@
 
 
 url="urls.txt"
-echo "" > diversion.txt
+echo "" > harvest.txt
 while read -r line; do
       if [ -z "$line" ]
       then
           break
       fi
       wget "${line}" -O ./tmpfile
-      cat ./tmpfile >> diversion.txt
+      cat ./tmpfile >> harvest.txt
       rm ./tmpfile
 done <$url
