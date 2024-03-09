@@ -1,7 +1,9 @@
 # another list used for blocking
-# also used for other bespoke adlist/trackers
+# used for bespoke adlist/trackers
 denylist.txt
-# sourced from other list
-output.txt 
-# source urls for output.txt
+# sourced from other lists
+harvest.txt 
+# urls used for harvest.txt
 url.txt
+# dedup list of harvest.txt
+output.txt
