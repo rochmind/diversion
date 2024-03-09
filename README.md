@@ -1,3 +1,7 @@
-# another list used for diversion.ch - backup adblocker on asus router (in case pihole is down)
+# another list used for blocking
 # also used for other bespoke adlist/trackers
-blacklist
+denylist.txt
+# sourced from other list
+output.txt 
+# source urls for output.txt
+url.txt
