@@ -2,7 +2,6 @@
 
 # Read through the url.txt file and execute wget command for every url
 
-
 url="urls.txt"
 echo "" > harvest.txt
 while read -r line; do
