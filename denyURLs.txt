@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt
+https://raw.githubusercontent.com/rochmind/diversion/main/blacklist.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.txt
