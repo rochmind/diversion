@@ -446,6 +446,8 @@
 0.0.0.0 insights.de.algolia.io
 0.0.0.0 dcf.espn.com
 0.0.0.0 sch-2917.mosyle.com
+0.0.0.0 fronius-se-iot-dm-1-telemetry.azure-devices.net
+0.0.0.0 routerfeedback.asus.com
 
 #qop
 0.0.0.0 _ldap._tcp.pdc._msdcs.qoppps.local
