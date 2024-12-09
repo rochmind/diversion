@@ -528,9 +528,7 @@
 0.0.0.0 collectors.au.sumologic.com
 0.0.0.0 d.joinhoney.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 dns.msftncsi.com
 0.0.0.0 hulkprod.anm.co.uk
-0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 launchpad-wrapper.privacymanager.io
 0.0.0.0 log22-normal-alisg.tiktokv.com
 0.0.0.0 search.namequery.com
