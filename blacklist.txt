@@ -62,7 +62,6 @@
 0.0.0.0 gmass.co
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 graph-fallback.facebook.com
