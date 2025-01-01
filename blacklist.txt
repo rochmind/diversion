@@ -451,24 +451,25 @@
 0.0.0.0 sch-2917.mosyle.com
 0.0.0.0 fronius-se-iot-dm-1-telemetry.azure-devices.net
 0.0.0.0 routerfeedback.asus.com
+0.0.0.0 www.baidu.com
 
 #qop
-0.0.0.0 _ldap._tcp.pdc._msdcs.qoppps.local
-0.0.0.0 _ldap._tcp.qoppps.local
-0.0.0.0 _ldap._tcp.dc._msdcs.qoppps.local
-0.0.0.0 _ldap._tcp.default-first-site-name._sites.qoppps.local
-0.0.0.0 _ldap._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
-0.0.0.0 _ldap._tcp.88278cd5-b682-4599-8aee-24a653c9ed35.domains._msdcs.qoppps.local
-0.0.0.0 _kerberos._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
-0.0.0.0 _kerberos._tcp.dc._msdcs.qoppps.local
-0.0.0.0 5cg1356ld8.qoppps.local
-0.0.0.0 alannahs-laptop.qoppps.local
-0.0.0.0 datasvr.qoppps.local
-0.0.0.0 dcsvr.qoppps.local
-0.0.0.0 qoppps.local
-0.0.0.0 printsvr.qoppps.local
-0.0.0.0 spiceworkssvr.qoppps.local
-0.0.0.0 wpad.qoppps.local
+#0.0.0.0 _ldap._tcp.pdc._msdcs.qoppps.local
+#0.0.0.0 _ldap._tcp.qoppps.local
+#0.0.0.0 _ldap._tcp.dc._msdcs.qoppps.local
+#0.0.0.0 _ldap._tcp.default-first-site-name._sites.qoppps.local
+#0.0.0.0 _ldap._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
+#0.0.0.0 _ldap._tcp.88278cd5-b682-4599-8aee-24a653c9ed35.domains._msdcs.qoppps.local
+#0.0.0.0 _kerberos._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
+#0.0.0.0 _kerberos._tcp.dc._msdcs.qoppps.local
+#0.0.0.0 5cg1356ld8.qoppps.local
+#0.0.0.0 alannahs-laptop.qoppps.local
+#0.0.0.0 datasvr.qoppps.local
+#0.0.0.0 dcsvr.qoppps.local
+#0.0.0.0 qoppps.local
+#0.0.0.0 printsvr.qoppps.local
+#0.0.0.0 spiceworkssvr.qoppps.local
+#0.0.0.0 wpad.qoppps.local
 
 #ecm
 0.0.0.0 _kerberos._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
@@ -485,10 +486,10 @@
 0.0.0.0 wpad.ecmelb.local
 
 #msj
-0.0.0.0 _kerberos.tcp.msj.local
-0.0.0.0 _kerberos.udp.msj.local
-0.0.0.0 kerberos.tcp.msj.local
-0.0.0.0 kerberos.udp.msj.local
+#0.0.0.0 _kerberos.tcp.msj.local
+#0.0.0.0 _kerberos.udp.msj.local
+#0.0.0.0 kerberos.tcp.msj.local
+#0.0.0.0 kerberos.udp.msj.local
 
 
 ## LG tv in Oz
