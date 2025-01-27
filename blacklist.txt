@@ -453,24 +453,6 @@
 0.0.0.0 routerfeedback.asus.com
 0.0.0.0 www.baidu.com
 
-#qop
-#0.0.0.0 _ldap._tcp.pdc._msdcs.qoppps.local
-#0.0.0.0 _ldap._tcp.qoppps.local
-#0.0.0.0 _ldap._tcp.dc._msdcs.qoppps.local
-#0.0.0.0 _ldap._tcp.default-first-site-name._sites.qoppps.local
-#0.0.0.0 _ldap._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
-#0.0.0.0 _ldap._tcp.88278cd5-b682-4599-8aee-24a653c9ed35.domains._msdcs.qoppps.local
-#0.0.0.0 _kerberos._tcp.default-first-site-name._sites.dc._msdcs.qoppps.local
-#0.0.0.0 _kerberos._tcp.dc._msdcs.qoppps.local
-#0.0.0.0 5cg1356ld8.qoppps.local
-#0.0.0.0 alannahs-laptop.qoppps.local
-#0.0.0.0 datasvr.qoppps.local
-#0.0.0.0 dcsvr.qoppps.local
-#0.0.0.0 qoppps.local
-#0.0.0.0 printsvr.qoppps.local
-#0.0.0.0 spiceworkssvr.qoppps.local
-#0.0.0.0 wpad.qoppps.local
-
 #ecm
 0.0.0.0 _kerberos._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
 0.0.0.0 _ldap._tcp.ecmelb.local
@@ -517,8 +499,9 @@
 0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 
 #nextdns A
-0.0.0.0 activity.windows.com
 0.0.0.0 aax-fe.amazon.com.au
+0.0.0.0 acsechocaptiveportal.com
+0.0.0.0 activity.windows.com
 0.0.0.0 api.snapkit.com
 0.0.0.0 au.thtk.temu.com
 0.0.0.0 bf58353tyw.bf.dynatrace.com
@@ -537,4 +520,6 @@
 0.0.0.0 status.geotrust.com
 0.0.0.0 unagi.amazon.com.au
 0.0.0.0 watson.events.data.microsoft.com
-0.0.0.0 acsechocaptiveportal.com
+0.0.0.0 yotpo.com
+0.0.0.0 eu-v20.events.endpoint.security.microsoft.com
+0.0.0.0 australiasoutheast-0.in.applicationinsights.azure.com
