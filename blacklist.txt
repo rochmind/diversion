@@ -422,6 +422,7 @@
 0.0.0.0 nba2k23-ws-telem.aws.2ksports.com
 0.0.0.0 nba2k24-ws-telem.aws.2ksports.com
 0.0.0.0 nba2k25-ws-telem.aws.2ksports.com
+0.0.0.0 nba2k26-ws-telem.aws.2ksports.com
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 telemetry-console.api.playstation.com
 0.0.0.0 telemetry-cii.api.playstation.com
@@ -452,27 +453,6 @@
 0.0.0.0 fronius-se-iot-dm-1-telemetry.azure-devices.net
 0.0.0.0 routerfeedback.asus.com
 0.0.0.0 www.baidu.com
-
-#ecm
-0.0.0.0 _kerberos._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
-0.0.0.0 _ldap._tcp.ecmelb.local
-0.0.0.0 _ldap._tcp.altonanorth._sites.ecmelb.local
-0.0.0.0 _ldap._tcp.altonanorth._sites.dc._msdcs.ecmelb.local
-0.0.0.0 _ldap._tcp.1113d58c-8b86-4920-8942-9caed9ab735a.domains._msdcs.ecmelb.local
-0.0.0.0 _ldap._tcp.dc._msdcs.ecmelb.local
-0.0.0.0 ecmelb.local
-0.0.0.0 ndcsccm.ecmelb.local
-0.0.0.0 spdc2.ecmelb.local
-0.0.0.0 spcsccm.ecmelb.local
-0.0.0.0 spprt.ecmelb.local
-0.0.0.0 wpad.ecmelb.local
-
-#msj
-#0.0.0.0 _kerberos.tcp.msj.local
-#0.0.0.0 _kerberos.udp.msj.local
-#0.0.0.0 kerberos.tcp.msj.local
-#0.0.0.0 kerberos.udp.msj.local
-
 
 ## LG tv in Oz
 #0.0.0.0 au.rdx2.lgtvsdp.com
